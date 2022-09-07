@@ -124,7 +124,7 @@ Since the UI will be hosted on WAMP/MAMP, please clone the repository into the W
 
 Using your command-line interface/terminal window, navigate to the WAMP/MAMP root directory and run the following command:
 ```
-git clone <to insert>
+git clone https://github.com/daveloww/Insurance-Aggregator.git
 ```
 You may be prompted to log in to a Github account. Please log in to your Github account and you will be able to access this public repository.
 
@@ -235,7 +235,7 @@ docker-compose down -v
 <br>
 
 ### Configure Kong API Gateway
-1. Launch your web browser and type "[localhost:1337]"(http://localhost:1337)
+1. Launch your web browser and type "[localhost:1337](http://localhost:1337)"
 2. Create the administrator account with the following details:
     - Username: admin
     - Email: *enter your email address*
@@ -269,7 +269,7 @@ Now, start WAMP/MAMP, launch your web browser, and type in [http://localhost/Ins
 
 ## Navigating the Application
 
-There are 2 different user types - [customer](#customer) and [agent](#agent). 
+There are 2 different user types - [Customer](#customer) and [Agent](#agent). 
 
 <br>
 
@@ -293,8 +293,7 @@ Customers will need to first register an account, then the application would ret
 
 - Password: No requirements
 
-- Email address: Your email address 
-  - You have to use a real email address to receive an email after a purchase
+- Email address: Your email address (you need to use a real email address to receive an email after a purchase)
 
 <br>
 
@@ -313,9 +312,9 @@ Features include:
 ### Agent
 Agents do not need to register for an account, as dummy agent accounts already exist in the database.
 
-*Dummy Agent Account* 
-*NRIC: S1234567C* 
-*Password: dave123*
+*Dummy Agent Account* <br>
+*NRIC: S1234567C* <br>
+*Password: dave123* <br>
 
 Use the above account credentials and check the "I am an agent" checkbox to log in as an agent. Have fun exploring the features as an agent!
 
