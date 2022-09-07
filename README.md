@@ -13,6 +13,7 @@
     2. [Database Setup](#Database-Setup)
     3. [SendGrid Setup](#SendGrid-Setup)
     4. [Paypal Setup](#Paypal-Setup)
+    5. [Environment Check](#Environment-Check)
 5. [Running the Application](#Running-the-Application)
     1. [Start Docker Containers](#Start-Docker-Containers)
     2. [Configure Kong API Gateway](#Configure-Kong-API-Gateway)
@@ -112,6 +113,7 @@ To get things started, you need to:
 2. [Set up database](#Database-Setup)
 3. [Set up SendGrid](#SendGrid-Setup)
 4. [Set up Paypal](#Paypal-Setup)
+5. [Check Environment](#Environment-Check)
 
 <br>
 
