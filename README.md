@@ -113,7 +113,7 @@ To get things started, you need to:
 2. [Set up database](#Database-Setup)
 3. [Set up SendGrid](#SendGrid-Setup)
 4. [Set up Paypal](#Paypal-Setup)
-5. [Check Environment](#Environment-Check)
+5. [Check environment](#Environment-Check)
 
 <br>
 
