@@ -207,7 +207,11 @@ To get a functioning application, you need to:
 <br>
 
 ### Start Docker Containers 
-Using your command-line interface/terminal window, navigate to the "Insurance-Aggregator" directory ([previously cloned](#Clone-Repository)). After which, run the following command to build the Docker containers:
+Using your command-line interface/terminal window, navigate to the "Insurance-Aggregator" directory ([previously cloned](#Clone-Repository)). 
+
+<br>
+
+After which, run the following command to build the Docker containers:
 ```
 docker-compose build
 ```
