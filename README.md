@@ -25,7 +25,7 @@
 <br>
 
 ## Introduction
-With many insurance companies offering a multitude of policies, customers may find it difficult to find a policy that best suits their needs. But fret not, this Insurance Aggregator comes to the rescue! It aggregate policies from various insurance companies and through a simple scoring algorithm, it recommends the top 5 policies that are best suited for the customer based on his/her preferences and personal information.
+With many insurance companies offering a multitude of policies, customers may find it difficult to find a policy that best suits their needs. But fret not, this Insurance Aggregator comes to the rescue! It first aggregates policies from various insurance companies and through a simple scoring algorithm, it recommends the top 5 policies that are best suited for the customer based on his/her preferences and personal information.
 
 This repository contains instructions of setting up and running the application on localhost, meant for **Windows** or **Mac** OS. Ensure that you also have all the [prerequisites](#Prerequisites) covered before you [get started](#Getting-Started).
 
