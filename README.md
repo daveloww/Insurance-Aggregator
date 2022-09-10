@@ -349,6 +349,6 @@ Features include:
 <br>
 
 ## Future Work
-Looking to explore and implement authentication and rate limiting plugins on the API gateway. This is of interest because access control and prevention of malicious traffic are one of the key benefits of an API gateway. 
+Looking to explore and implement authentication and rate limiting plugins on the API gateway. This is of interest because access control and prevention of malicious traffic are some of the key benefits of an API gateway. 
 
 [Back To The Top](#Insurance-Aggregator)
