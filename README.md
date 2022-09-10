@@ -189,7 +189,21 @@ Launch Docker Desktop and ensure that none of your existing containers are using
 
 <br>
 
-If you do, please shut down the containers and you're now ready to [run the application](#Running-The-Application)!
+Alternatively, you could run the following command to list all running containers and their port numbers:
+```
+docker ps
+```
+
+<br>
+
+If there are such containers, please terminate them via Docker Desktop or through the following command: 
+```
+docker stop <containerid>
+```
+
+<br>
+
+You're now ready to [run the application](#Running-The-Application)!
 
 [Back To The Top](#Insurance-Aggregator)
 
