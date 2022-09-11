@@ -100,7 +100,7 @@ Each microservice is containerised using [Docker](https://www.docker.com/), and 
 - [Git](https://git-scm.com/downloads) >= 2.21
 - [Docker Desktop](https://docs.docker.com/get-docker/)
 - [WAMP](https://www.wampserver.com/en/download-wampserver-64bits/) (Windows) / [MAMP](https://www.mamp.info/en/downloads/) (Mac)
-- [Paypal](https://developer.paypal.com/tools/sandbox/accounts/#create-a-personal-sandbox-account) Account Credentials and Keys
+- [PayPal](https://developer.paypal.com/tools/sandbox/accounts/#create-a-personal-sandbox-account) Account Credentials and Keys
 - [SendGrid](https://signup.sendgrid.com/) email configuration and API Key
 
 [Back To The Top](#Insurance-Aggregator)
